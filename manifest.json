@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "app_id": "12345",
+      "title": "Ready Or Not",
+      "thumbnail": "https://example.com/omsi2.jpg",
+      "fix_version": "1.0.5",
+      "download_url": "https://github.com/user-attachments/files/33119233/ready.or.not.zip",
+      "description": "Фикс онлайна"
+    },
+    {
+      "app_id": "67890",
+      "title": "Transport Fever 3",
+      "thumbnail": "https://example.com/tf3.jpg",
+      "fix_version": "2.1.0",
+      "download_url": "https://your-server.com/fixes/tf3_v2.1.0.zip",
+      "description": "Оптимизация трафика в крупных узлах."
+    }
+  ]
+}
